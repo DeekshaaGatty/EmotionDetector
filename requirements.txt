@@ -1,0 +1,21 @@
+To execute the code, you will need to meet the following requirements:
+
+1. Python: Ensure that you have Python installed on your system. You can download and install Python from the official Python website (https://www.python.org) based on your operating system.
+
+2. OpenCV: Install the OpenCV library, which provides computer vision and video processing capabilities. You can install it using the following command:
+   ```
+   pip install opencv-python
+   ```
+
+3. matplotlib: Install the matplotlib library, which is used for displaying images and plots. You can install it using the following command:
+   ```
+   pip install matplotlib
+   ```
+
+4. FER: Install the FER library, which is used for facial expression recognition. You can install it using the following command:
+   ```
+   pip install fer
+   ```
+
+5. Webcam: Ensure that you have a webcam connected to your computer.
+
